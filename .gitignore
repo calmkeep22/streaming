@@ -1,0 +1,33 @@
+# Visual Studio 캐시/사용자 설정
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+
+# 빌드 산출물
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.dll
+*.lib
+*.exp
+*.tlog
+*.log
+*.recipe
+*.iobj
+*.ipdb
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

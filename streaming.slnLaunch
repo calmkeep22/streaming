@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "receiver + sender",
+    "Projects": [
+      {
+        "Path": "receiver\\receiver.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "sender\\sender.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

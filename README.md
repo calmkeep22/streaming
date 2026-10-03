@@ -16,7 +16,7 @@ streaming.sln
 2. `streaming.sln`을 열고 **x64** 구성으로 빌드 (sender, receiver 두 프로젝트가 함께 빌드됨)
 
 GStreamer 경로는 설치 시 등록되는 환경 변수 `GSTREAMER_1_0_ROOT_MSVC_X86_64`를 사용하고,
-없으면 `C:\Program Files\gstreamer.0\msvc_x86_64\`를 사용합니다.
+없으면 `C:\Program Files\gstreamer.0\msvc_x86_64\`를 사용합니다.
 VS에서 디버그 실행할 때는 GStreamer `bin` 폴더가 `PATH`에 자동으로 추가됩니다.
 
 ## 실행
